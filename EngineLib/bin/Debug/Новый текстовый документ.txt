@@ -1,0 +1,5 @@
+ [DllImport("gauss_p.dll", CallingConvention = CallingConvention.Cdecl)]
+        static extern double* gauss_p(ref double[,] matrix, double[] b, int n, int pr);
+
+  double* s;
+	s = gauss_p(ref myArr, Arr, n, 3);

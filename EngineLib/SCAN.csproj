@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A544C054-CF21-4078-88CF-CD9DECE28576}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Integral</RootNamespace>
+    <AssemblyName>New Project</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x64</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>headicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NLapack, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLapack.1.0.14\lib\NLapack.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NLapack.Managed, Version=1.0.4734.1329, Culture=neutral, processorArchitecture=x86">
+      <HintPath>..\packages\NLapack.1.0.14\lib\NLapack.Managed.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SlimDX, Version=4.0.13.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9, processorArchitecture=x86">
+      <HintPath>..\packages\SlimDX.4.0.13.44\lib\NET40\SlimDX.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="3D Module\Camera.cs" />
+    <Compile Include="3D Module\CameraManager.cs" />
+    <Compile Include="3D Module\FrameCounter.cs" />
+    <Compile Include="3D Module\DeviceManager.cs" />
+    <Compile Include="3D Module\EgoCamera.cs" />
+    <Compile Include="3D Module\OrbitCamera.cs" />
+    <Compile Include="3D Module\OrbitPanCamera.cs" />
+    <Compile Include="3D Module\Renderables\Arc.cs" />
+    <Compile Include="3D Module\Renderables\Arc3d.cs" />
+    <Compile Include="3D Module\Renderables\Arrows.cs" />
+    <Compile Include="3D Module\Renderables\Ball.cs" />
+    <Compile Include="3D Module\Renderables\IncArrow.cs" />
+    <Compile Include="3D Module\Renderables\IncArrow2.cs" />
+    <Compile Include="3D Module\Renderables\IncidentField.cs" />
+    <Compile Include="3D Module\Renderables\TriangleSurface.cs" />
+    <Compile Include="3D Module\Renderables\Wire.cs" />
+    <Compile Include="Classes\Apperture.cs" />
+    <Compile Include="Classes\Calculation.cs" />
+    <Compile Include="Classes\Constant.cs" />
+    <Compile Include="Classes\Line.cs" />
+    <Compile Include="Classes\MatrixAlg.cs" />
+    <Compile Include="Classes\MatrixSolution.cs" />
+    <Compile Include="Classes\NearField.cs" />
+    <Compile Include="Classes\PellengValue.cs" />
+    <Compile Include="Classes\TriangleMesh.cs" />
+    <Compile Include="Classes\Triangle.cs" />
+    <Compile Include="Classes\CVector.cs" />
+    <Compile Include="Classes\DVector.cs" />
+    <Compile Include="Classes\FarField.cs" />
+    <Compile Include="Classes\Point3D.cs" />
+    <Compile Include="Classes\SurfaceCurrent.cs" />
+    <Compile Include="Classes\WireCurrent.cs" />
+    <Compile Include="Classes\WireMesh.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="3D Module\Renderables\ColorCube.cs" />
+    <Compile Include="3D Module\Renderables\Grid.cs" />
+    <Compile Include="3D Module\Renderables\Renderable.cs" />
+    <Compile Include="3D Module\RenderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="3D Module\RenderControl.Designer.cs">
+      <DependentUpon>RenderControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3D Module\RenderManager.cs" />
+    <Compile Include="3D Module\Scene.cs" />
+    <Compile Include="Templates\FarFieldRequestTemplate.cs" />
+    <Compile Include="WindowsForms\BearingErrorsRequestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForms\BearingErrorsRequestForm.Designer.cs">
+      <DependentUpon>BearingErrorsRequestForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForms\CreateAppertureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForms\CreateAppertureForm.Designer.cs">
+      <DependentUpon>CreateAppertureForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForms\CreateObjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForms\CreateObjectForm.Designer.cs">
+      <DependentUpon>CreateObjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForms\FarFieldRequestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForms\FarFieldRequestForm.Designer.cs">
+      <DependentUpon>FarFieldRequestForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForms\SetFrequencyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForms\SetFrequencyForm.Designer.cs">
+      <DependentUpon>SetFrequencyForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="3D Module\packages.config" />
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Shaders\transform.fx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Shaders\triangle.fx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="3D Module\RenderControl.resx">
+      <DependentUpon>RenderControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForms\BearingErrorsRequestForm.resx">
+      <DependentUpon>BearingErrorsRequestForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForms\CreateAppertureForm.resx">
+      <DependentUpon>CreateAppertureForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForms\CreateObjectForm.resx">
+      <DependentUpon>CreateObjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForms\FarFieldRequestForm.resx">
+      <DependentUpon>FarFieldRequestForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForms\SetFrequencyForm.resx">
+      <DependentUpon>SetFrequencyForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="headicon.ico" />
+    <Content Include="Shaders\colorEffect.fx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Shaders\transformEffect.fx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

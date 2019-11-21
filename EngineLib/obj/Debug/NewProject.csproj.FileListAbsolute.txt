@@ -1,0 +1,30 @@
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\bin\Debug\Shaders\colorEffect.fx
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\bin\Debug\Shaders\transformEffect.fx
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\bin\Debug\Shaders\transform.fx
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\bin\Debug\Shaders\triangle.fx
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\bin\Debug\New Project.exe
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\bin\Debug\New Project.pdb
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\bin\Debug\SlimDX.D3D11Control.dll
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\bin\Debug\SlimDX.dll
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\bin\Debug\SlimDX.D3D11Control.xml
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\obj\Debug\ProjectVisual3D.Form1.resources
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\obj\Debug\NewProject.csproj.GenerateResource.Cache
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\obj\Debug\New Project.exe
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\obj\Debug\New Project.pdb
+C:\Users\123\YandexDisk\Work\Visual3DTemplate\EngineLib\obj\Debug\ProjectVisual3D.RenderControl.resources
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\New Project.exe.config
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\obj\Debug\New Project.exe
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\obj\Debug\New Project.pdb
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\Shaders\colorEffect.fx
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\Shaders\transformEffect.fx
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\Shaders\transform.fx
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\Shaders\triangle.fx
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\New Project.exe
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\New Project.pdb
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\SlimDX.D3D11Control.dll
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\SlimDX.dll
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\bin\Debug\SlimDX.D3D11Control.xml
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\obj\Debug\NewProject.csprojResolveAssemblyReference.cache
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\obj\Debug\NewProject.RenderControl.resources
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\obj\Debug\NewProject.Form1.resources
+C:\Users\Denis\YandexDisk\Work\Integral\EngineLib\obj\Debug\NewProject.csproj.GenerateResource.Cache

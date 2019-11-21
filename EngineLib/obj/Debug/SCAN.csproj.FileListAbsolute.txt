@@ -1,0 +1,42 @@
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\colorEffect.fx
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\transformEffect.fx
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\transform.fx
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\triangle.fx
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\New Project.exe.config
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\New Project.exe
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\New Project.pdb
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\SlimDX.dll
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.RenderControl.resources
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.MainForm.resources
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\SCAN.csproj.GenerateResource.Cache
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\New Project.exe
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\New Project.pdb
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\SCAN.csprojResolveAssemblyReference.cache
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.CreateAppertureForm.resources
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.SetFrequencyForm.resources
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.BearingErrorsRequestForm.resources
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.FarFieldRequestForm.resources
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.CreateObjectForm.resources
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\New Project.exe.config
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\New Project.exe
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\New Project.pdb
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\colorEffect.fx
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\transformEffect.fx
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\transform.fx
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\triangle.fx
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\New Project.exe
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\New Project.pdb
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\NLapack.dll
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\NLapack.Managed.dll
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\SlimDX.dll
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\SCAN.csprojResolveAssemblyReference.cache
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.RenderControl.resources
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.MainForm.resources
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.BearingErrorsRequestForm.resources
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.CreateAppertureForm.resources
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.CreateObjectForm.resources
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.FarFieldRequestForm.resources
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.SetFrequencyForm.resources
+C:\Users\123\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\SCAN.csproj.GenerateResource.Cache
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\NLapack.dll
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\NLapack.Managed.dll

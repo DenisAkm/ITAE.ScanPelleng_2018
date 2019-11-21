@@ -1,0 +1,210 @@
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MDX11Form.exe.config
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MDX11Form.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MDX11Form.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Apparat.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Ewk.Math.Numerics.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MathNet.Numerics.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Apparat.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Ewk.Math.Numerics.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MathNet.Numerics.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MDX11Form.Form1.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MDX11Form.Properties.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MainForm.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MDX11Form.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MDX11Form.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Shaders\colorEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Shaders\transformEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Shaders\transform.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Shaders\triangle.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\ZedGraph.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\ZedGraph.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MDX11Form.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MDX11Form.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MDX11Form.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Shaders\colorEffect.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Shaders\transformEffect.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Shaders\transform.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Shaders\triangle.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MDX11Form.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MDX11Form.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Apparat.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Ewk.Math.Numerics.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MathNet.Numerics.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\ZedGraph.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Apparat.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\Ewk.Math.Numerics.xml
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\MathNet.Numerics.xml
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\ZedGraph.xml
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\de\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\es\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\it\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MDX11Form.Form1.resources
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MDX11Form.Properties.Resources.resources
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Release\MainForm.csproj.GenerateResource.Cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\MDX11Form.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\Shaders\colorEffect.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\Shaders\transformEffect.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\Shaders\transform.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\Shaders\triangle.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\MDX11Form.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\MDX11Form.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\Apparat.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\Ewk.Math.Numerics.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\MathNet.Numerics.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\ZedGraph.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\Apparat.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\Ewk.Math.Numerics.xml
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\MathNet.Numerics.xml
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\ZedGraph.xml
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\de\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\es\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\it\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\obj\x86\Release\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\obj\x86\Release\MDX11Form.Form1.resources
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\obj\x86\Release\MDX11Form.Properties.Resources.resources
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\obj\x86\Release\MainForm.csproj.GenerateResource.Cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\obj\x86\Release\MDX11Form.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\MDX11Form\obj\x86\Release\MDX11Form.pdb
+H:\Beam4_Parallel\MDX11Form\bin\Release\MDX11Form.exe.config
+H:\Beam4_Parallel\MDX11Form\obj\x86\Release\MDX11Form.exe
+H:\Beam4_Parallel\MDX11Form\obj\x86\Release\MDX11Form.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\Shaders\colorEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\Shaders\transformEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\Shaders\transform.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\Shaders\triangle.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\MDX11Form.exe.config
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\MDX11Form.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\MDX11Form.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\Apparat.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\Ewk.Math.Numerics.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\MathNet.Numerics.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\ZedGraph.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\Apparat.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\Ewk.Math.Numerics.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\MathNet.Numerics.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\ZedGraph.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\obj\x86\Release\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.Form1.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.Properties.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\obj\x86\Release\MainForm.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.pdb
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\MDX11Form.exe.config
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.exe
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.pdb
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\Shaders\colorEffect.fx
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\Shaders\transformEffect.fx
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\Shaders\transform.fx
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\Shaders\triangle.fx
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\MDX11Form.exe
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\MDX11Form.pdb
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\Apparat.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\Ewk.Math.Numerics.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\MathNet.Numerics.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\ZedGraph.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\Apparat.pdb
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\Ewk.Math.Numerics.xml
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\MathNet.Numerics.xml
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\ZedGraph.xml
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\obj\x86\Release\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.Form1.resources
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.Properties.Resources.resources
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\MDX11Form\obj\x86\Release\MainForm.csproj.GenerateResource.Cache
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\MDX11Form.exe.config
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.exe
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.pdb
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\Shaders\colorEffect.fx
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\Shaders\transformEffect.fx
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\Shaders\transform.fx
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\Shaders\triangle.fx
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\MDX11Form.exe
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\MDX11Form.pdb
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\Apparat.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\Ewk.Math.Numerics.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\MathNet.Numerics.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\ZedGraph.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\Apparat.pdb
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\Ewk.Math.Numerics.xml
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\MathNet.Numerics.xml
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\ZedGraph.xml
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\de\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\es\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\it\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\obj\x86\Release\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.Form1.resources
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\obj\x86\Release\MDX11Form.Properties.Resources.resources
+C:\Users\123\YandexDisk\Work\Beam4_Home\MDX11Form\obj\x86\Release\MainForm.csproj.GenerateResource.Cache
+C:\Users\123\YandexDisk\Work\SimpleWire\MDX11Form\bin\Release\MDX11Form.exe.config
+C:\Users\123\YandexDisk\Work\SimpleWire\MDX11Form\obj\x86\Release\MDX11Form.exe
+C:\Users\123\YandexDisk\Work\SimpleWire\MDX11Form\obj\x86\Release\MDX11Form.pdb

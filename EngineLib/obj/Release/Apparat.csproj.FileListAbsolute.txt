@@ -1,0 +1,72 @@
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Apparat.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Apparat.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\SlimDX.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.RenderControl.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Shaders\colorEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Shaders\transformEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Shaders\transform.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Shaders\triangle.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Shaders\colorEffect.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Shaders\transformEffect.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Shaders\transform.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Shaders\triangle.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Apparat.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\Apparat.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\bin\Release\SlimDX.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.RenderControl.resources
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.csproj.GenerateResource.Cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4\EngineLib\obj\Release\Apparat.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\bin\Release\Shaders\colorEffect.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\bin\Release\Shaders\transformEffect.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\bin\Release\Shaders\transform.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\bin\Release\Shaders\triangle.fx
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\bin\Release\Apparat.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\bin\Release\Apparat.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\bin\Release\SlimDX.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\obj\Release\Apparat.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\obj\Release\Apparat.RenderControl.resources
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\obj\Release\Apparat.csproj.GenerateResource.Cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\obj\Release\Apparat.dll
+C:\Users\123\Documents\Visual Studio 2013\Projects\Beam4_Parallel\EngineLib\obj\Release\Apparat.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\bin\Release\Shaders\colorEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\bin\Release\Shaders\transformEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\bin\Release\Shaders\transform.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\bin\Release\Shaders\triangle.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\bin\Release\Apparat.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\bin\Release\Apparat.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\bin\Release\SlimDX.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\obj\Release\Apparat.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\obj\Release\Apparat.RenderControl.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\obj\Release\Apparat.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\obj\Release\Apparat.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4_Home\EngineLib\obj\Release\Apparat.pdb
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\bin\Release\Shaders\colorEffect.fx
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\bin\Release\Shaders\transformEffect.fx
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\bin\Release\Shaders\transform.fx
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\bin\Release\Shaders\triangle.fx
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\bin\Release\Apparat.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\bin\Release\Apparat.pdb
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\bin\Release\SlimDX.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\obj\Release\Apparat.csprojResolveAssemblyReference.cache
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\obj\Release\Apparat.RenderControl.resources
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\obj\Release\Apparat.csproj.GenerateResource.Cache
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\obj\Release\Apparat.dll
+C:\Users\Denis\YandexDisk\Работа\Beam4_Home\EngineLib\obj\Release\Apparat.pdb
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\bin\Release\Shaders\colorEffect.fx
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\bin\Release\Shaders\transformEffect.fx
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\bin\Release\Shaders\transform.fx
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\bin\Release\Shaders\triangle.fx
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\bin\Release\Apparat.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\bin\Release\Apparat.pdb
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\bin\Release\SlimDX.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\obj\Release\Apparat.csprojResolveAssemblyReference.cache
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\obj\Release\Apparat.RenderControl.resources
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\obj\Release\Apparat.csproj.GenerateResource.Cache
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\obj\Release\Apparat.dll
+C:\Users\123\YandexDisk\Work\Beam4_Home\EngineLib\obj\Release\Apparat.pdb

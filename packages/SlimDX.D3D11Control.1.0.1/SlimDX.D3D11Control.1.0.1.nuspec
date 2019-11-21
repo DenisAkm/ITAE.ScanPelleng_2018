@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SlimDX.D3D11Control</id>
+    <version>1.0.1</version>
+    <title>SlimDX.D3D11Control D3D11-aware WinForms Control</title>
+    <authors>Torben Könke</authors>
+    <owners>Torben Könke</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/smiley22/SlimDX.D3D11Control</projectUrl>
+    <iconUrl>http://smiley22.github.com/Icons/SlimDX.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SlimDX.D3D11Control takes care of the boilerplate of device context initialization and swapchain setup. It also provides a couple of useful properties for configuring vertical synchronization, setting the rasterizer's cull- and fillmode, etc.</description>
+    <summary>SlimDX.D3D11Control is a D3D11-aware WinForms control for use with SlimDX.</summary>
+    <copyright>© 2015 Torben Könke</copyright>
+    <tags>SlimDX C# WinForms Direct3D</tags>
+    <dependencies>
+      <dependency id="SlimDX" version="4.0.13.44" />
+    </dependencies>
+  </metadata>
+</package>

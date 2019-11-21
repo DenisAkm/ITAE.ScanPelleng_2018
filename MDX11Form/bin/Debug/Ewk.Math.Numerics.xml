@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ewk.Math.Numerics</name>
+    </assembly>
+    <members>
+        <member name="T:Ewk.Math.Numerics.Complex">
+            <summary>
+            Represents a <c>Complex</c> number.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.#ctor(System.Double,System.Double)">
+            <summary>
+            Initializes a new instance.
+            </summary>
+            <param name="real">The real part of the <c>Complex</c> number.</param>
+            <param name="imaginary">The imaginary part of the <c>Complex</c> number.</param>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.ToString">
+            <summary>
+            Creates a <see cref="T:System.String"/> representation  of the <see cref="T:Ewk.Math.Numerics.Complex"/> instance.
+            </summary>
+            <returns>A <see cref="T:System.String"/> representation  of the <see cref="T:Ewk.Math.Numerics.Complex"/> instance.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.ToString(System.String,System.IFormatProvider)">
+            <summary>
+            Creates a <see cref="T:System.String"/> representation of the <c>Complex</c> number.
+            </summary>
+            <param name="format">The format to use for the string conversion.</param>
+            <param name="formatProvider">The formatprovider to use for the string conversion.</param>
+            <returns>A <see cref="T:System.String"/> representation of the <c>Complex</c> number.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Equals(Ewk.Math.Numerics.Complex)">
+            <summary>
+            Returns a value indicating whether this instance and the specified <see cref="T:Ewk.Math.Numerics.Complex"/> represent the same value.
+            </summary>
+            <param name="other">The <see cref="T:Ewk.Math.Numerics.Complex"/> number to compare with.</param>
+            <returns>A value indicating whether this instance and the specified <see cref="T:Ewk.Math.Numerics.Complex"/> represent the same value.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Equals(System.Object)">
+            <summary>
+            Returns a value indicating whether this instance and the specified <see cref="T:System.Object"/> represent the same value.
+            </summary>
+            <param name="obj">The <see cref="T:System.Object"/> to compare with.</param>
+            <returns>A value indicating whether this instance and the specified <see cref="T:System.Object"/> represent the same value.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.GetHashCode">
+            <summary>
+            Serves as a hash function.
+            </summary>
+            <returns>An <see cref="T:System.Int32"/> that represents the hash of this instance.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.CompareTo(Ewk.Math.Numerics.Complex)">
+            <summary>
+            Compares this instance to the specified <see cref="T:Ewk.Math.Numerics.Complex"/> and
+            returns an <see cref="T:System.Int32"/> that indicates whether the value of this
+            instance is considered smaller, equal or greater than the specified <see cref="T:Ewk.Math.Numerics.Complex"/>.
+            </summary>
+            <param name="other">The <see cref="T:Ewk.Math.Numerics.Complex"/> to compare with.</param>
+            <returns>
+            An <see cref="T:System.Int32"/> that indicates whether the value of this
+            instance is considered smaller, equal or greater than the specified <see cref="T:Ewk.Math.Numerics.Complex"/>.
+            </returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.CompareTo(System.Object)">
+            <summary>
+            Compares this instance to the specified <see cref="T:System.Object"/> and
+            returns an <see cref="T:System.Int32"/> that indicates whether the value of this
+            instance is considered smaller, equal or greater than the specified <see cref="T:System.Object"/>.
+            </summary>
+            <param name="obj">The <see cref="T:System.Object"/> to compare with.</param>
+            <returns>
+            An <see cref="T:System.Int32"/> that indicates whether the value of this
+            instance is considered smaller, equal or greater than the specified <see cref="T:System.Object"/>.
+            </returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Conjugate(Ewk.Math.Numerics.Complex)">
+            <summary>
+            Calculates the conjugate of the specified <see cref="T:Ewk.Math.Numerics.Complex"/>.
+            </summary>
+            <param name="complex">The <see cref="T:Ewk.Math.Numerics.Complex"/> to calculate the conjugate for.</param>
+            <returns>A <see cref="T:Ewk.Math.Numerics.Complex"/> that represents the conjugate of the specified <see cref="T:Ewk.Math.Numerics.Complex"/>.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Add(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Adds two <see cref="T:Ewk.Math.Numerics.Complex"/> instances.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Subtract(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Subtracts <see cref="T:Ewk.Math.Numerics.Complex">b</see> from <see cref="T:Ewk.Math.Numerics.Complex">a</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Multiply(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Multiplies two <see cref="T:Ewk.Math.Numerics.Complex"/> instances.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Divide(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Divides <see cref="T:Ewk.Math.Numerics.Complex">a</see> by <see cref="T:Ewk.Math.Numerics.Complex">b</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Sqrt(Ewk.Math.Numerics.Complex)">
+            <summary>
+            The Square Root (power 1/2) of this <c>Complex</c>
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Pow(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Returns a specified number raised to the specified power.
+            </summary>
+            <param name="x">A <see cref="T:Ewk.Math.Numerics.Complex"/> number to be raised to a power. </param>
+            <param name="y">A <see cref="T:Ewk.Math.Numerics.Complex"/> number that specifies a power.</param>
+            <returns>The number x raised to the power y.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Exp(Ewk.Math.Numerics.Complex)">
+            <summary>
+            Returns e raised to the specified power.
+            </summary>
+            <param name="x">A <see cref="T:Ewk.Math.Numerics.Complex"/> number that specifies a power.</param>
+            <returns>The number e raised to the power x.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.Log(Ewk.Math.Numerics.Complex)">
+            <summary>
+            Calculates the (natural base) logarithm of the specified <see cref="T:Ewk.Math.Numerics.Complex"/>.
+            </summary>
+            <param name="value">The <see cref="T:Ewk.Math.Numerics.Complex"/> to calculate the logarithm for.</param>
+            <returns>The (natural base) logarithm of the specified <see cref="T:Ewk.Math.Numerics.Complex"/>.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.CreateFromModulusArgument(System.Double,System.Double)">
+            <summary>
+            Creates a <see cref="T:Ewk.Math.Numerics.Complex"/> from a modulus and an argument.
+            </summary>
+            <param name="modulus">The modulus to use.</param>
+            <param name="argument">The argument to use.</param>
+            <returns>A <see cref="T:Ewk.Math.Numerics.Complex"/> that represesnts the specified modulus and argument.</returns>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_Addition(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Adds two <see cref="T:Ewk.Math.Numerics.Complex"/> instances.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_Subtraction(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Subtracts <see cref="T:Ewk.Math.Numerics.Complex">b</see> from <see cref="T:Ewk.Math.Numerics.Complex">a</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_Multiply(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Multiplies two <see cref="T:Ewk.Math.Numerics.Complex"/> instances.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_Division(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Divides <see cref="T:Ewk.Math.Numerics.Complex">a</see> by <see cref="T:Ewk.Math.Numerics.Complex">b</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_Equality(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Returns a value that indicates if <see cref="T:Ewk.Math.Numerics.Complex">a</see> is equal to <see cref="T:Ewk.Math.Numerics.Complex">b</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_Inequality(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Returns a value that indicates if <see cref="T:Ewk.Math.Numerics.Complex">a</see> is not equal to <see cref="T:Ewk.Math.Numerics.Complex">b</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_LessThan(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Returns a value that indicates if <see cref="T:Ewk.Math.Numerics.Complex">a</see> is smaller than <see cref="T:Ewk.Math.Numerics.Complex">b</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_GreaterThan(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Returns a value that indicates if <see cref="T:Ewk.Math.Numerics.Complex">a</see> is greater than <see cref="T:Ewk.Math.Numerics.Complex">b</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_LessThanOrEqual(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Returns a value that indicates if <see cref="T:Ewk.Math.Numerics.Complex">a</see> is equal to or smaller than <see cref="T:Ewk.Math.Numerics.Complex">b</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_GreaterThanOrEqual(Ewk.Math.Numerics.Complex,Ewk.Math.Numerics.Complex)">
+            <summary>
+            Returns a value that indicates if <see cref="T:Ewk.Math.Numerics.Complex">a</see> is equal to or greater than <see cref="T:Ewk.Math.Numerics.Complex">b</see>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_Implicit(System.Double)~Ewk.Math.Numerics.Complex">
+            <summary>
+            Implicitly creates a <see cref="T:Ewk.Math.Numerics.Complex"/> from a <see cref="T:System.Double"/>.
+            </summary>
+        </member>
+        <member name="M:Ewk.Math.Numerics.Complex.op_Implicit(System.Int32)~Ewk.Math.Numerics.Complex">
+            <summary>
+            Implicitly creates a <see cref="T:Ewk.Math.Numerics.Complex"/> from a <see cref="T:System.Int32"/>.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.Real">
+            <summary>
+            Gets the real part of the <c>Complex</c> number.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.Imaginary">
+            <summary>
+            Gets the imaginary part of the <c>Complex</c> number.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.Modulus">
+            <summary>
+            Gets the modulus of this <c>Complex</c> number.
+            </summary>
+            <seealso cref="P:Ewk.Math.Numerics.Complex.Argument"/>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.ModulusSquared">
+            <summary>
+            Gets the squared value of the modulus of the <c>Complex</c> number.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.Argument">
+            <summary>
+            Gets the argument of this <c>Complex</c> number.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.IsZero">
+            <summary>
+            Indicates whether the <c>Complex</c> is zero.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.IsOne">
+            <summary>
+            Indicates whether the <c>Complex</c> is one.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.IsI">
+            <summary>
+            Indicates whether the <c>Complex</c> is the imaginary unit.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.IsNaN">
+            <summary>
+            Indicates whether the provided <c>Complex</c> evaluates to a
+            value that is not a number.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.IsInfinity">
+            <summary>
+            Indicates the provided <c>Complex</c> evaluates to an infinite value.
+            </summary>
+            <remarks>
+            True if it either evaluates to a complex infinity or to a directed infinity.
+            </remarks>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.IsReal">
+            <summary>
+            Indicates the provided <c>Complex</c> is real.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.IsImaginary">
+            <summary>
+            Indicates the provided <c>Complex</c> is imaginary.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.IsRealNonnegative">
+            <summary>
+            Indicates the provided <c>Complex</c> is real and not negative, that is >= 0.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.Zero">
+            <summary>
+            Represents the zero value. This field is constant.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.One">
+            <summary>
+            Represents the <c>1</c> value. This field is constant.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.I">
+            <summary>
+            Represents the imaginary unit number. This field is constant.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.NaN">
+            <summary>
+            Represents a value that is not a number. This field is constant.
+            </summary>
+        </member>
+        <member name="P:Ewk.Math.Numerics.Complex.Infinity">
+            <summary>
+            Represents the infinity value
+            </summary>
+        </member>
+    </members>
+</doc>

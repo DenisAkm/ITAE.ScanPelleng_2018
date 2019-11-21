@@ -1,0 +1,1 @@
+-n 4 -localonly -envall -mapall "C:\Program Files\FEKO\7.0\bin\feko_mkl.csv.impi.exe" "grid" "--run-from-gui"

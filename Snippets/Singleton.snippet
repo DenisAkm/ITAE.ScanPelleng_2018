@@ -1,0 +1,44 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>
+        Singleton
+      </Title>
+      <Shortcut>ston</Shortcut>
+    </Header>
+    <Snippet>
+    <Declarations>
+      <Literal default="true" Editable="false">
+        <ID>classname</ID>
+        <ToolTip>Class name</ToolTip>
+        <Function>ClassName()</Function>
+        <Default>ClassNamePlaceholder</Default>
+      </Literal>
+    </Declarations>
+    
+    
+      <Code Language="CSharp">
+        <![CDATA[
+        #region Singleton Pattern
+        private static $classname$ instance = null;
+        public static $classname$ Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = new $classname$();
+                }
+                return instance;
+            }
+        }
+        #endregion
+        
+        #region Constructor
+        private $classname$(){}
+        #endregion
+        ]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+  </CodeSnippets>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Ewk.Math.Numerics</id>
+    <version>1.0.4807.29504</version>
+    <title>Ewk.Math.Numerics</title>
+    <authors>Coilz</authors>
+    <owners>Coilz</owners>
+    <licenseUrl>http://ewk.codeplex.com/license</licenseUrl>
+    <projectUrl>http://ewk.codeplex.com/</projectUrl>
+    <iconUrl>http://download.codeplex.com/download/Avatar.ashx?DownloadId=343877</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Contains classes that represent complex numeric values.</description>
+    <summary />
+    <releaseNotes>- Added overloads for implicit casts from double and int to the Complex type.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>Coilz Ewk Math Numerics</tags>
+  </metadata>
+</package>

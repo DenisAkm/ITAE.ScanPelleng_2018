@@ -1,0 +1,14 @@
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\New Project.exe.config
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\New Project.exe
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\New Project.pdb
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\colorEffect.fx
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\transformEffect.fx
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\transform.fx
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\Shaders\triangle.fx
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\New Project.exe
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\New Project.pdb
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\bin\Debug\SlimDX.dll
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\ScanPelleng.csprojResolveAssemblyReference.cache
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.RenderControl.resources
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\Integral.MainForm.resources
+C:\Users\Denis\YandexDisk\Work\ScanPelleng\EngineLib\obj\Debug\ScanPelleng.csproj.GenerateResource.Cache

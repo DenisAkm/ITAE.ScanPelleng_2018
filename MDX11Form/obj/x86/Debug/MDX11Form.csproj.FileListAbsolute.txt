@@ -1,0 +1,17 @@
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\obj\x86\Debug\MDX11Form.Form1.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\obj\x86\Debug\MDX11Form.Properties.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\obj\x86\Debug\MDX11Form.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\bin\Debug\Shaders\colorEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\bin\Debug\Shaders\transformEffect.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\bin\Debug\Shaders\transform.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\bin\Debug\Shaders\triangle.fx
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\bin\Debug\MDX11Form.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\bin\Debug\MDX11Form.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\bin\Debug\Apparat.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\bin\Debug\SlimDX.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\bin\Debug\Apparat.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\obj\x86\Debug\MDX11Form.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\obj\x86\Debug\MDX11Form.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\3D Cube\Урок3\MDX11Form\obj\x86\Debug\MDX11Form.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Debug\MDX11Form.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\Beam4\MDX11Form\obj\x86\Debug\MDX11Form.pdb
